@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "yeap": "^1.0.0-beta.3"
+    "yeap": "^1.0.0-beta.6"
   },
   "devDependencies": {
     "vite": "^2.9.9",
