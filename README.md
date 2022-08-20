@@ -18,6 +18,8 @@ $ cd my-yeap-application
 $ npm install # or pnpm install or yarn
 ```
 
+(Note: you don't need to import h or Fragment from the template, it's already imported for you with `yeap-vite-preset`)
+
 ## I don't see a template that matches my need?
 
 Need a template that contains your favorite libraries? 
