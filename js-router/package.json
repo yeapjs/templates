@@ -12,7 +12,7 @@
     "yeap-router": "^0.3.2"
   },
   "devDependencies": {
-    "vite": "^2.9.9",
-    "yeap-vite-preset": "^1.1.0"
+    "vite": "latest",
+    "yeap-vite-preset": "^1.1.1"
   }
 }
