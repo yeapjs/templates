@@ -8,10 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "yeap": "^1.1.2"
+    "yeap": "^1.3.0-beta.1"
   },
   "devDependencies": {
     "vite": "^2.9.9",
-    "yeap-vite-preset": "^1.0.0"
+    "yeap-vite-preset": "^1.1.0"
   }
 }
